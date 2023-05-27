@@ -3,8 +3,8 @@
 
 ## Skills
 
-- Programming Languages: Java, Python, JavaScript
-- Web Development: HTML, CSS, React
+- Programming Languages: Java, Python, JavaScript, C++
+- Web Development: Angular, CSS, HTML
 - Database: MySQL, MongoDB
 - Version Control: Git
 - Agile Methodologies: Scrum
