@@ -18,7 +18,7 @@
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About me
 
 
-I am a computer engineering student at [Tecnológico de Costa Rica](https://www.tec.ac.cr/), currently in my fifth semester. With a deep passion for software development and a strong desire to stay updated with the latest technologies, I am constantly seeking opportunities to expand my knowledge and skills in the field.
+I am a computer engineering student at [Tecnológico de Costa Rica](https://www.tec.ac.cr/), currently in my last semester. With a deep passion for software development and a strong desire to stay updated with the latest technologies, I am constantly seeking opportunities to expand my knowledge and skills in the field.
 
 As an enthusiastic learner, I enjoy exploring new programming languages, frameworks, and tools. I thrive in collaborative environments and believe in the power of teamwork to drive innovation and deliver high-quality results.
 
